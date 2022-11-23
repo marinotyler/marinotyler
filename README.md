@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marinotyler
-- 👀 I’m interested in helping expand reach of WEb 3.0 through cloud based application development.
+- 👀 I’m interested in helping expand reach of Web 3.0 through blockchain application development.
 - 🌱 I’m currently learning web development with ASP.NET Core
 - 💞️ I’m looking to collaborate on any web or cloud application based projects. 
 - 📫 You can reach me at my LinkedIn linkedin.com/in/ty-marino
