@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marinotyler
-- 👀 I’m interested in game developement in C++
+- 👀 I’m interested in Web Developement using Next.js and React
 - 🌱 I’m currently learning web development with ASP.NET Core
 - 💞️ I’m looking to collaborate on any web or cloud application based projects. 
 - 📫 You can reach me at my LinkedIn linkedin.com/in/ty-marino
